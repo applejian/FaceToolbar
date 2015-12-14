@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    
+    <key>[//face1]</key>
+	<string>[微笑]</string>
+    
+    <key>[//face2]</key>
+	<string>[偷笑]</string>
+    
+    <key>[//face3]</key>
+	<string>[难过]</string>
+    
+    <key>[//face4]</key>
+	<string>[傲慢]</string>
+    
+    <key>[//face5]</key>
+	<string>[调皮]</string>
+    
+    <key>[//face6]</key>
+	<string>[快哭了]</string>
+    
+    <key>[//face7]</key>
+	<string>[坏笑]</string>
+    
+    <key>[//face8]</key>
+	<string>[酷]</string>
+    
+    <key>[//face9]</key>
+	<string>[害羞]</string>
+    
+    <key>[//face10]</key>
+	<string>[憨笑]</string>
+    
+    <key>[//face11]</key>
+	<string>[饥饿]</string>
+    
+    <key>[//face12]</key>
+	<string>[愉快]</string>
+    
+    <key>[//face13]</key>
+	<string>[流泪]</string>
+    
+    <key>[//face14]</key>
+	<string>[龇牙]</string>
+    
+    <key>[//face15]</key>
+	<string>[亲亲]</string>
+    
+    
+    <key>[//face16]</key>
+	<string>[色]</string>
+    
+    <key>[//face17]</key>
+	<string>[流汗]</string>
+    
+    <key>[//face18]</key>
+	<string>[疑问]</string>
+    
+    <key>[//face19]</key>
+	<string>[吓]</string>
+    
+    <key>[//face20]</key>
+	<string>[阴险]</string>
+    
+    <key>[//face21]</key>
+	<string>[嘘]</string>
+    
+    <key>[//face22]</key>
+	<string>[发怒]</string>
+    
+    <key>[//face23]</key>
+	<string>[敲打]</string>
+    
+    <key>[//face24]</key>
+	<string>[咒骂]</string>
+    
+    <key>[//face25]</key>
+	<string>[闭嘴]</string>
+    
+    <key>[//face26]</key>
+	<string>[发呆]</string>
+    
+    <key>[//face27]</key>
+	<string>[奋斗]</string>
+    
+    <key>[//face28]</key>
+	<string>[白眼]</string>
+    
+    <key>[//face29]</key>
+	<string>[得意]</string>
+    
+    <key>[//face30]</key>
+	<string>[惊讶]</string>
+    
+    <key>[//face31]</key>
+	<string>[抠鼻]</string>
+    
+    <key>[//face32]</key>
+	<string>[疯了]</string>
+    
+    <key>[//face33]</key>
+	<string>[抓狂]</string>
+    
+    <key>[//face34]</key>
+	<string>[可怜]</string>
+    
+    <key>[//face35]</key>
+	<string>[困]</string>
+    
+    <key>[//face36]</key>
+	<string>[衰]</string>
+    
+    <key>[//face37]</key>
+	<string>[晕]</string>
+    
+    <key>[//face38]</key>
+	<string>[委屈]</string>
+    
+    <key>[//face39]</key>
+	<string>[鄙视]</string>
+    
+    <key>[//face40]</key>
+	<string>[冷汗]</string>
+    
+    <key>[//face41]</key>
+	<string>[大兵]</string>
+    
+    <key>[//face42]</key>
+	<string>[吐]</string>
+    
+    <key>[//face43]</key>
+	<string>[撇嘴]</string>
+    
+    <key>[//face44]</key>
+	<string>[睡]</string>
+    
+    <key>[//face45]</key>
+	<string>[鼓掌]</string>
+
+</dict>
+</plist>
