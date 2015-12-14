@@ -33,6 +33,7 @@
     FaceToolBarDismiss();// 移除输入调
     
     
+    
     FaceToolBarEmpty();// 手动 清空文本框内容
     FaceToolBarSetPlaceholder(@"回复:德玛");//设置 Placeholder
     //    FaceToolBarClearAccessor();//清除绑定
